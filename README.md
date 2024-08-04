@@ -44,30 +44,3 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
-
-<style>
-  /* Add some margin and padding to improve spacing */
-  body {
-    margin: 20px;
-    padding: 20px;
-  }
-  
-  /* Add some space between sections */
-  h3 {
-    margin-top: 30px;
-  }
-  
-  /* Add space between list items */
-  ul {
-    margin-bottom: 20px;
-  }
-  
-  li {
-    margin-bottom: 10px;
-  }
-  
-  /* Add space between icons */
-  .icons a {
-    margin-right: 10px;
-  }
-</style>
