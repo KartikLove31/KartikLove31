@@ -9,22 +9,21 @@
 
 - 🔭 I'm currently studying in **Bangalore Institue of Technology**
 
-- 🌱 I'm currently learning **Flutter, Firebase, Angular, Vue.Js and Nest.Js**
+- 🌱 I'm currently learning **Node.js, React, Cloud and ML**
 
 - 🎓 I'm currently pursuing **Bachelor of Engineering in Information Technology**
 
-- 👨‍💻 All of my projects are available at [Mangesh2704](https://github.com/Mangesh2704)
+- 👨‍💻 All of my projects are available at [KartikLove31](https://github.com/KartiLove31)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Python and Django**
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, C++ and Cloud**
 
-- 📫 How to reach me **202103036.mangeshpkr@student.xavier.ac.in**
+- 📫 How to reach me **lovelesh.debnath.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mangesh-pangam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mangesh-pangam-9a8097280/" height="30" width="40" /></a>
-<a href="https://instagram.com/mangesh_2704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mangesh_2704" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/mangesh_2704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saraprakshita" height="30" width="40" /></a>
-<a href="https://leetcode.com/mangesh_2704/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mangesh_2704/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lovelesh-debnath-0b776218b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lovelesh-debnath-0b776218b/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/lovelesh_debnath_o_o/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Lovelesh Instagram" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/STLERR/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Lovelesh Leetcode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
